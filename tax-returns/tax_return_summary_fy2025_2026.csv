@@ -1,13 +1,16 @@
 ato_section,category,description,tx_count,total_bank_received_aud,taxable_claimable_amount_aud,lodgement_guidance
-Item 1: Salary or wages,Employment Income (PAYG),Scape Australia Management Pty Ltd (Scape Living),12,29172.00,29172.00,"Pre-filled via STP. Gross: ,172.00, Tax withheld: ,150.00."
-Item 1: Salary or wages,Employment Income (PAYG),Experience Australia Group Pty Ltd (Eureka Skydeck),19,15638.00,15638.00,"Pre-filled via STP. Gross: ,638.00, Tax withheld: ,230.00."
-Item 10: Gross Interest,Bank Interest,"NAB (,334.85) + CBA (.37) + Up Bank (.26)",35,1545.48,1545.48,Pre-filled by banks. Up Bank automatically split 50% joint share.
-Managed Funds,Investment Distributions,iShares S&P 500 ETF (Foreign Tax Offset: .83),1,32.58,32.58,Pre-filled ETF distribution.
-Deduction D4: Self-Education,Professional Accreditation,IELTS English Language Test Fee (30 Dec 2025 / 01 Jan 2026),1,475.00,475.00,Claimed under D4. 100% backed by CommBank debit.
-Deduction D2: Travel Expenses,Public Transport (Myki),Myki Public Transport Top-ups (16 transactions),16,200.00,200.00,Claimed under D2. 16 verified top-ups in CommBank & Up Bank.
-Deduction D3: Clothing & Laundry,Uniform Laundry,Washing compulsory work uniform shirts at home,150 loads,150.00,150.00,Claimed under D3 based on official ATO Laundry Ruling TR 98/5.
-Deduction D5: Other Work Expenses,Work Equipment / Laptop Bag,Herschel Retreat 23L Backpack (Order #HERAU00029764),1,114.98,115.00,Claimed under D5. Backed by CommBank debit on 10/04/2026.
-Deduction D5: Other Work Expenses,Working From Home - Electricity & Gas,Origin Energy Bills (9 bills throughout FY 2025-2026),9,682.84,273.14,Claimed under D5. 40% workspace share backed by CommBank direct debits.
-Deduction D5: Other Work Expenses,Working From Home - Internet,"Pineapple Net Home Internet (.88/mo, 6 bills)",6,359.28,287.42,Claimed under D5. 80% work share backed by Up Bank bills.
-Deduction D5: Other Work Expenses,Work Mobile Phone,Belong Mobile Phone Plan (12 monthly payments),12,428.00,363.80,Claimed under D5. 85% work share backed by Up Bank bills.
-Deduction D5: Other Work Expenses,Cloud & Digital Storage,Apple Cloud Subscriptions (12 monthly payments),12,35.88,37.37,Claimed under D5. Backed by Up Bank direct debits.
+Item 1: Salary or wages,Employment Income (PAYG),SCAPE AUSTRALIA MANAGEMENT PTY LTD,12,29172.00,29172.00,"Gross: ,172.00, Tax withheld: ,150.00"
+Item 1: Salary or wages,Employment Income (PAYG),EXPERIENCE AUSTRALIA GROUP PTY LTD,19,15638.00,15638.00,"Gross: ,638.00, Tax withheld: ,230.00"
+Item 10: Gross Interest,Bank Interest,"NAB (,334.85) + CBA (.37) + Up Bank (.26)",35,1545.48,1545.48,Pre-filled interest across all bank accounts
+Managed Funds,Investment Distributions,ISHARES S&P 500 ETF (Foreign Tax Offset: .83),1,32.58,32.58,Pre-filled ETF managed fund distribution
+Deduction D2: Travel Expenses,Rideshare Work Transit,UBER WORK TRIP,2,26.92,27.00,CommBank ...3266 (08/07 & 09/07)
+Deduction D2: Travel Expenses,Public Transport (Myki),MYKI,16,200.00,200.00,16 verified Myki top-ups throughout year
+Deduction D3: Clothing & Laundry,Uniform Laundry,Occupation-specific clothing,150 loads,150.00,150.00,ATO Ruling TR 98/5 standard uniform laundry
+Deduction D4: Self-Education,Language & Professional Skills,IELTS ENGLISH General expenses,1,475.00,475.00,CommBank ...3266 on 01/01/2026
+Deduction D5: Other Work Expenses,Employment Screening,CHECKED AUSTRALIA SCREENING,1,64.00,64.00,CommBank debit on 31/12/2025
+Deduction D5: Other Work Expenses,Police Background Check,AFP POLICE CHECK,1,56.18,56.18,CommBank ...3266 debit on 17/02/2026
+Deduction D5: Other Work Expenses,Work Equipment / Laptop Bag,HERSCHEL WORK BACKPACK,1,114.98,115.00,CommBank ...3266 debit on 10/04/2026
+Deduction D5: Other Work Expenses,Cloud Storage,APPLE CLOUD,12,35.88,37.37,Up Bank 2Up 12 monthly payments
+Deduction D5: Other Work Expenses,WFH Energy & Gas,ELECTRICITY AND GAS,9,682.84,273.14,40% of 9 Origin Energy bills in CommBank ...8101
+Deduction D5: Other Work Expenses,WFH Internet,INTERNET,6,359.28,287.42,80% of 6 Pineapple Net bills in Up Bank
+Deduction D5: Other Work Expenses,Work Mobile Phone,MOBILE PHONE,12,428.00,363.80,85% of 12 Belong Mobile bills in Up Bank
