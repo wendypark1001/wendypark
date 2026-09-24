@@ -3,3 +3,6 @@ token_*.json
 .env
 tax_receipts_fy2025_2026/
 tax_receipts_*/
+
+# Sensitive identity details (ATO call sheet)
+ATO-issue/
